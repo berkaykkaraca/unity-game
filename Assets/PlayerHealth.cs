@@ -17,6 +17,7 @@ public class PlayerHealth : MonoBehaviour
 
     private PlayerMovement playerMovement;
     private Rigidbody2D rb;
+    public GameManager gameManager;
 
     void Start()
     {
@@ -98,5 +99,6 @@ public class PlayerHealth : MonoBehaviour
         Debug.Log("Karakter Öldü!");
         if (playerMovement != null) playerMovement.canControl = false;
         rb.velocity = Vector2.zero; // Ölünce kaymayı durdur
+        FindObjectOfType<GameManager>().ShowGameOver();
     }
 }

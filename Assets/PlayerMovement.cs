@@ -116,7 +116,7 @@ public class PlayerMovement : MonoBehaviour
         }
     }
 
-    void TransformIntoKnight()
+    public void TransformIntoKnight()
     {
         isKnight = true;
         normalVisual.SetActive(false);
