@@ -984,6 +984,63 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!1001 &349279006
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1643768933891273898, guid: e06ba03e6436f8f42986d0f6d775132f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 34.41
+      objectReference: {fileID: 0}
+    - target: {fileID: 1643768933891273898, guid: e06ba03e6436f8f42986d0f6d775132f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 5.56
+      objectReference: {fileID: 0}
+    - target: {fileID: 1643768933891273898, guid: e06ba03e6436f8f42986d0f6d775132f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.056279
+      objectReference: {fileID: 0}
+    - target: {fileID: 1643768933891273898, guid: e06ba03e6436f8f42986d0f6d775132f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1643768933891273898, guid: e06ba03e6436f8f42986d0f6d775132f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1643768933891273898, guid: e06ba03e6436f8f42986d0f6d775132f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1643768933891273898, guid: e06ba03e6436f8f42986d0f6d775132f, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1643768933891273898, guid: e06ba03e6436f8f42986d0f6d775132f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1643768933891273898, guid: e06ba03e6436f8f42986d0f6d775132f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1643768933891273898, guid: e06ba03e6436f8f42986d0f6d775132f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4359278652454976750, guid: e06ba03e6436f8f42986d0f6d775132f, type: 3}
+      propertyPath: m_Name
+      value: OrangeGoblin (1)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: e06ba03e6436f8f42986d0f6d775132f, type: 3}
 --- !u!1 &383233931
 GameObject:
   m_ObjectHideFlags: 0
@@ -1068,6 +1125,63 @@ Transform:
   m_Children: []
   m_Father: {fileID: 519420032}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &383430304
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1643768933891273898, guid: e06ba03e6436f8f42986d0f6d775132f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 48.59
+      objectReference: {fileID: 0}
+    - target: {fileID: 1643768933891273898, guid: e06ba03e6436f8f42986d0f6d775132f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 4.63
+      objectReference: {fileID: 0}
+    - target: {fileID: 1643768933891273898, guid: e06ba03e6436f8f42986d0f6d775132f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.056279
+      objectReference: {fileID: 0}
+    - target: {fileID: 1643768933891273898, guid: e06ba03e6436f8f42986d0f6d775132f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1643768933891273898, guid: e06ba03e6436f8f42986d0f6d775132f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1643768933891273898, guid: e06ba03e6436f8f42986d0f6d775132f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1643768933891273898, guid: e06ba03e6436f8f42986d0f6d775132f, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1643768933891273898, guid: e06ba03e6436f8f42986d0f6d775132f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1643768933891273898, guid: e06ba03e6436f8f42986d0f6d775132f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1643768933891273898, guid: e06ba03e6436f8f42986d0f6d775132f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4359278652454976750, guid: e06ba03e6436f8f42986d0f6d775132f, type: 3}
+      propertyPath: m_Name
+      value: OrangeGoblin (3)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: e06ba03e6436f8f42986d0f6d775132f, type: 3}
 --- !u!1 &389847869
 GameObject:
   m_ObjectHideFlags: 0
@@ -2588,11 +2702,11 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1643768933891273898, guid: e06ba03e6436f8f42986d0f6d775132f, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 17.52
+      value: 28.58
       objectReference: {fileID: 0}
     - target: {fileID: 1643768933891273898, guid: e06ba03e6436f8f42986d0f6d775132f, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 3.26
+      value: 3.52
       objectReference: {fileID: 0}
     - target: {fileID: 1643768933891273898, guid: e06ba03e6436f8f42986d0f6d775132f, type: 3}
       propertyPath: m_LocalPosition.z
@@ -3103,6 +3217,63 @@ Transform:
   m_Children: []
   m_Father: {fileID: 1552336598}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &1223270514
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1643768933891273898, guid: e06ba03e6436f8f42986d0f6d775132f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 52.23
+      objectReference: {fileID: 0}
+    - target: {fileID: 1643768933891273898, guid: e06ba03e6436f8f42986d0f6d775132f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 4.78
+      objectReference: {fileID: 0}
+    - target: {fileID: 1643768933891273898, guid: e06ba03e6436f8f42986d0f6d775132f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.056279
+      objectReference: {fileID: 0}
+    - target: {fileID: 1643768933891273898, guid: e06ba03e6436f8f42986d0f6d775132f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1643768933891273898, guid: e06ba03e6436f8f42986d0f6d775132f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1643768933891273898, guid: e06ba03e6436f8f42986d0f6d775132f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1643768933891273898, guid: e06ba03e6436f8f42986d0f6d775132f, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1643768933891273898, guid: e06ba03e6436f8f42986d0f6d775132f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1643768933891273898, guid: e06ba03e6436f8f42986d0f6d775132f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1643768933891273898, guid: e06ba03e6436f8f42986d0f6d775132f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4359278652454976750, guid: e06ba03e6436f8f42986d0f6d775132f, type: 3}
+      propertyPath: m_Name
+      value: OrangeGoblin (4)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: e06ba03e6436f8f42986d0f6d775132f, type: 3}
 --- !u!1 &1321698780
 GameObject:
   m_ObjectHideFlags: 0
@@ -3499,6 +3670,63 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!1001 &1460141448
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1643768933891273898, guid: e06ba03e6436f8f42986d0f6d775132f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 66.97
+      objectReference: {fileID: 0}
+    - target: {fileID: 1643768933891273898, guid: e06ba03e6436f8f42986d0f6d775132f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 3.48
+      objectReference: {fileID: 0}
+    - target: {fileID: 1643768933891273898, guid: e06ba03e6436f8f42986d0f6d775132f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.056279
+      objectReference: {fileID: 0}
+    - target: {fileID: 1643768933891273898, guid: e06ba03e6436f8f42986d0f6d775132f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1643768933891273898, guid: e06ba03e6436f8f42986d0f6d775132f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1643768933891273898, guid: e06ba03e6436f8f42986d0f6d775132f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1643768933891273898, guid: e06ba03e6436f8f42986d0f6d775132f, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1643768933891273898, guid: e06ba03e6436f8f42986d0f6d775132f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1643768933891273898, guid: e06ba03e6436f8f42986d0f6d775132f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1643768933891273898, guid: e06ba03e6436f8f42986d0f6d775132f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4359278652454976750, guid: e06ba03e6436f8f42986d0f6d775132f, type: 3}
+      propertyPath: m_Name
+      value: OrangeGoblin (6)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: e06ba03e6436f8f42986d0f6d775132f, type: 3}
 --- !u!1 &1465247715
 GameObject:
   m_ObjectHideFlags: 0
@@ -10977,6 +11205,63 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!1001 &2038590495
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1643768933891273898, guid: e06ba03e6436f8f42986d0f6d775132f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 58.91
+      objectReference: {fileID: 0}
+    - target: {fileID: 1643768933891273898, guid: e06ba03e6436f8f42986d0f6d775132f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 5.56
+      objectReference: {fileID: 0}
+    - target: {fileID: 1643768933891273898, guid: e06ba03e6436f8f42986d0f6d775132f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.056279
+      objectReference: {fileID: 0}
+    - target: {fileID: 1643768933891273898, guid: e06ba03e6436f8f42986d0f6d775132f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1643768933891273898, guid: e06ba03e6436f8f42986d0f6d775132f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1643768933891273898, guid: e06ba03e6436f8f42986d0f6d775132f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1643768933891273898, guid: e06ba03e6436f8f42986d0f6d775132f, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1643768933891273898, guid: e06ba03e6436f8f42986d0f6d775132f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1643768933891273898, guid: e06ba03e6436f8f42986d0f6d775132f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1643768933891273898, guid: e06ba03e6436f8f42986d0f6d775132f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4359278652454976750, guid: e06ba03e6436f8f42986d0f6d775132f, type: 3}
+      propertyPath: m_Name
+      value: OrangeGoblin (5)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: e06ba03e6436f8f42986d0f6d775132f, type: 3}
 --- !u!1 &2070672553
 GameObject:
   m_ObjectHideFlags: 0
@@ -11140,6 +11425,63 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!1001 &2128210510
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1643768933891273898, guid: e06ba03e6436f8f42986d0f6d775132f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 43.43
+      objectReference: {fileID: 0}
+    - target: {fileID: 1643768933891273898, guid: e06ba03e6436f8f42986d0f6d775132f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 6.45
+      objectReference: {fileID: 0}
+    - target: {fileID: 1643768933891273898, guid: e06ba03e6436f8f42986d0f6d775132f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.056279
+      objectReference: {fileID: 0}
+    - target: {fileID: 1643768933891273898, guid: e06ba03e6436f8f42986d0f6d775132f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1643768933891273898, guid: e06ba03e6436f8f42986d0f6d775132f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1643768933891273898, guid: e06ba03e6436f8f42986d0f6d775132f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1643768933891273898, guid: e06ba03e6436f8f42986d0f6d775132f, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1643768933891273898, guid: e06ba03e6436f8f42986d0f6d775132f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1643768933891273898, guid: e06ba03e6436f8f42986d0f6d775132f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1643768933891273898, guid: e06ba03e6436f8f42986d0f6d775132f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4359278652454976750, guid: e06ba03e6436f8f42986d0f6d775132f, type: 3}
+      propertyPath: m_Name
+      value: OrangeGoblin (2)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: e06ba03e6436f8f42986d0f6d775132f, type: 3}
 --- !u!1 &2133918801
 GameObject:
   m_ObjectHideFlags: 0
@@ -11237,3 +11579,9 @@ SceneRoots:
   - {fileID: 135215643}
   - {fileID: 1600448202}
   - {fileID: 982278109}
+  - {fileID: 349279006}
+  - {fileID: 2128210510}
+  - {fileID: 383430304}
+  - {fileID: 1223270514}
+  - {fileID: 2038590495}
+  - {fileID: 1460141448}

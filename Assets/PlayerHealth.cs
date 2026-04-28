@@ -36,6 +36,7 @@ public class PlayerHealth : MonoBehaviour
         }
 
         if (Input.GetKeyDown(KeyCode.H)) TakeDamage(10);
+        if (transform.position.y < -10) Die();
     }
 
     public void TakeDamage(int damage, Transform enemyTransform = null)
